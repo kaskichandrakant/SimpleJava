@@ -1,7 +1,7 @@
 # SimpleJavaClasses
-## addition
-## subtraction
+## Addition
+## Subtraction
 ## OddEven
-## simple Guessing Game
+## Guessing Game
 ## LCM
 ## GCD
