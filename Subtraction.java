@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Substraction {
+public class Subtraction {
     public static void main(String args[]){
         int x,y,z;
         System.out.println("Enter two numbers to be added");
